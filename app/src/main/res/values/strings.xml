@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Level2OSC</string>
+
+    <string name="ipLabel">Your WiFi IP:</string>
+    <string name="ipStatus_nowifi">Please connect your WiFi</string>
+
+    <string name="portLabel">Your OSC Port:</string>
+    <string name="portStatus_nowifi">You first need WiFi</string>
+    <string name="portStatus_empty">Please insert a number</string>
+    <string name="portStatus_notavailable">This port is unavailable</string>
+    <string name="portStatus_connected">You are connected</string>
+
+    <string name="levelLabel">Current Level:</string>
+
+    <string name="sendButton">Send Command</string>
+</resources>
