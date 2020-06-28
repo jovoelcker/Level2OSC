@@ -3,6 +3,8 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/Level2OSC.iml" filepath="$PROJECT_DIR$/Level2OSC.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/Level2OSC-app.iml" filepath="$PROJECT_DIR$/app/Level2OSC-app.iml" group="Level2OSC/app" />
+      <module fileurl="file://$PROJECT_DIR$/StudioProjects-Level2OSC.iml" filepath="$PROJECT_DIR$/StudioProjects-Level2OSC.iml" group="Level2OSC" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
     </modules>
   </component>
